@@ -4,7 +4,6 @@
 
 [Information Fusion, 139 (2027), 104829](https://doi.org/10.1016/j.inffus.2026.104829).
 
-PyTorch implementation of FSDFuse, combining adaptive dual-mask Fourier decoupling (ADFD), dual-branch spatial decoupling (DBSD), and frequency-band-differentiated fusion (FBDF).
 
 ## Environment
 
